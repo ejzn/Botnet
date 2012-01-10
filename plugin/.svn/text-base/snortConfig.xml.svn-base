@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<database>
+    	<url>jdbc:mysql://131.202.240.65:3306/snort</url>
+    	<driver>com.mysql.jdbc.Driver</driver>
+    	<username>snort-user</username>
+    	<password>snort</password>
+	</database>

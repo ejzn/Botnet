@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/framework/!svn/ver/71/plugin/src/dataAccess
+END
+SnortAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/framework/!svn/ver/14/plugin/src/dataAccess/SnortAccess.java
+END
+ClassAccess.cld
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/framework/!svn/ver/71/plugin/src/dataAccess/ClassAccess.cld
+END
+AlertAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/framework/!svn/ver/14/plugin/src/dataAccess/AlertAccess.java
+END
+ReportAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/framework/!svn/ver/14/plugin/src/dataAccess/ReportAccess.java
+END

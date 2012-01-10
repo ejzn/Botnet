@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/framework/!svn/ver/80/plugin/src/servicebus
+END
+UploadAlerts.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/framework/!svn/ver/14/plugin/src/servicebus/UploadAlerts.java
+END
+ClassServiceBus.cld
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/framework/!svn/ver/71/plugin/src/servicebus/ClassServiceBus.cld
+END
+AlertPluginFramework.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/14/plugin/src/servicebus/AlertPluginFramework.java
+END
+AlertWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/framework/!svn/ver/14/plugin/src/servicebus/AlertWrapper.java
+END
+SWAClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/framework/!svn/ver/80/plugin/src/servicebus/SWAClient.java
+END
+ByteArrayDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/14/plugin/src/servicebus/ByteArrayDataSource.java
+END
+ScheduledTransmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/14/plugin/src/servicebus/ScheduledTransmitter.java
+END

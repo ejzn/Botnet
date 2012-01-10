@@ -1,0 +1,59 @@
+# --------------------------------------------------------
+# Host:                         131.202.240.65
+# Server version:               5.1.41-3ubuntu12.10
+# Server OS:                    debian-linux-gnu
+# HeidiSQL version:             6.0.0.3603
+# Date/time:                    2011-05-25 16:41:19
+# --------------------------------------------------------
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET NAMES utf8 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+
+# Dumping database structure for AlertPlugin
+DROP DATABASE IF EXISTS `AlertPlugin`;
+CREATE DATABASE IF NOT EXISTS `AlertPlugin` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `AlertPlugin`;
+
+
+# Dumping structure for table AlertPlugin.tblbuffer
+DROP TABLE IF EXISTS `tblbuffer`;
+CREATE TABLE IF NOT EXISTS `tblbuffer` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `col1` text,
+  `col2` text,
+  `col3` text,
+  `col4` text,
+  `col5` text,
+  `col6` text,
+  `col7` text,
+  `col8` text,
+  `col9` text,
+  `col10` text,
+  `col11` text,
+  `col12` text,
+  `col13` text,
+  `col14` text,
+  `col15` text,
+  `col16` text,
+  `col17` text,
+  `col18` text,
+  `col19` text,
+  `col20` text,
+  `col21` text,
+  `col22` text,
+  `col23` text,
+  `col24` text,
+  `col25` text,
+  `col26` text,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+# Dumping data for table AlertPlugin.tblbuffer: 1 rows
+DELETE FROM `tblbuffer`;
+/*!40000 ALTER TABLE `tblbuffer` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tblbuffer` ENABLE KEYS */;
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/framework/!svn/ver/14/plugin/lib
+END
+axis2-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/framework/!svn/ver/14/plugin/lib/axis2-1.2.jar
+END
+commons-beanutils-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/framework/!svn/ver/14/plugin/lib/commons-beanutils-1.8.3.jar
+END
+mysql-connector-java-5.1.12-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/14/plugin/lib/mysql-connector-java-5.1.12-bin.jar
+END
+saaj-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/framework/!svn/ver/14/plugin/lib/saaj-api.jar
+END
+org.apache.servicemix.bundles.wsdl4j-1.6.1_1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/14/plugin/lib/org.apache.servicemix.bundles.wsdl4j-1.6.1_1.jar
+END
+spring-ws-1.5.8-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/framework/!svn/ver/14/plugin/lib/spring-ws-1.5.8-all.jar
+END
+joda-time-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/framework/!svn/ver/14/plugin/lib/joda-time-1.6.1.jar
+END
+joda-time-1.6.1-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/framework/!svn/ver/14/plugin/lib/joda-time-1.6.1-sources.jar
+END
+axiom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/framework/!svn/ver/14/plugin/lib/axiom.jar
+END
+gwt-user.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/framework/!svn/ver/14/plugin/lib/gwt-user.jar
+END
+saaj-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/framework/!svn/ver/14/plugin/lib/saaj-impl.jar
+END
+wsrf-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/framework/!svn/ver/14/plugin/lib/wsrf-1.1.jar
+END
+joda-time-1.6.1-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/framework/!svn/ver/14/plugin/lib/joda-time-1.6.1-javadoc.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/framework/!svn/ver/14/plugin/lib/activation.jar
+END

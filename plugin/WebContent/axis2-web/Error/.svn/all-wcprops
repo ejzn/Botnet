@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/framework/!svn/ver/14/plugin/WebContent/axis2-web/Error
+END
+GenError.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/14/plugin/WebContent/axis2-web/Error/GenError.html
+END
+error500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/14/plugin/WebContent/axis2-web/Error/error500.jsp
+END
+error404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/14/plugin/WebContent/axis2-web/Error/error404.jsp
+END
+AuthError.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/14/plugin/WebContent/axis2-web/Error/AuthError.html
+END

@@ -1,0 +1,40 @@
+10
+
+dir
+82
+https://131.202.240.56/svn/framework/plugin/src
+https://131.202.240.56/svn/framework
+
+
+
+2011-12-13T19:20:21.432355Z
+82
+framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d205df87-9327-44ca-beea-46155cceff3b
+
+configuration
+dir
+
+common
+dir
+
+servicebus
+dir
+
+dataAccess
+dir
+

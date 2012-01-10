@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules
+END
+modules.list
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/modules.list
+END
+scripting-1.5.4.mar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/scripting-1.5.4.mar
+END
+soapmonitor-1.5.1.mar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/14/plugin/WebContent/WEB-INF/modules/soapmonitor-1.5.1.mar
+END
+soapmonitor-1.5.4.mar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/soapmonitor-1.5.4.mar
+END
+addressing-1.5.1.mar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/14/plugin/WebContent/WEB-INF/modules/addressing-1.5.1.mar
+END
+axis2-scripting-1.5.1.mar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/14/plugin/WebContent/WEB-INF/modules/axis2-scripting-1.5.1.mar
+END
+addressing-1.5.4.mar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/addressing-1.5.4.mar
+END
+mex-1.5.1.mar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/14/plugin/WebContent/WEB-INF/modules/mex-1.5.1.mar
+END
+mtompolicy-1.5.1.mar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/14/plugin/WebContent/WEB-INF/modules/mtompolicy-1.5.1.mar
+END
+mex-1.5.4.mar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/mex-1.5.4.mar
+END
+ping-1.5.1.mar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/14/plugin/WebContent/WEB-INF/modules/ping-1.5.1.mar
+END
+axis2-jaxws-mar-1.5.1.mar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/14/plugin/WebContent/WEB-INF/modules/axis2-jaxws-mar-1.5.1.mar
+END
+mtompolicy-1.5.4.mar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/mtompolicy-1.5.4.mar
+END
+ping-1.5.4.mar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/ping-1.5.4.mar
+END
+axis2-jaxws-mar-1.5.4.mar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/framework/!svn/ver/69/plugin/WebContent/WEB-INF/modules/axis2-jaxws-mar-1.5.4.mar
+END

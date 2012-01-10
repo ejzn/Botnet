@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<Plugin>
+	<Logger>
+    	<LastTimeStamp>0</LastTimeStamp>
+    	<PeriodBasedOnMilliSeconds>5000</PeriodBasedOnMilliSeconds>
+    	<LoggerIdentity>1</LoggerIdentity>
+    	<TargetEPR>http://localhost:8080/framework/services/AlertListener</TargetEPR>
+    </Logger>
+	<Buffer>
+    	<url>jdbc:mysql://131.202.240.65:3306/AlertPlugin</url>
+    	<driver>com.mysql.jdbc.Driver</driver>
+    	<username>snort-user</username>
+    	<password>snort</password>
+    	<databaseactive>yes</databaseactive>
+	</Buffer>
+	</Plugin>

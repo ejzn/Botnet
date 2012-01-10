@@ -1,0 +1,77 @@
+10
+
+dir
+82
+https://131.202.240.56/svn/framework/plugin/WebContent/WEB-INF
+https://131.202.240.56/svn/framework
+
+
+
+2011-05-24T20:36:43.262006Z
+69
+framework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d205df87-9327-44ca-beea-46155cceff3b
+
+services
+dir
+
+conf
+dir
+
+lib
+dir
+
+modules
+dir
+
+web.xml
+file
+
+
+
+
+2012-01-10T17:17:30.000000Z
+e9f09fe6eb705e1f387fd578a06725ba
+2011-02-21T23:50:23.665555Z
+14
+framework
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1785
+
+classes
+dir
+
